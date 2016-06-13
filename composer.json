@@ -1,0 +1,20 @@
+{
+    "name": "hans2103/KiyohsnippetsOverride",
+    "type": "magento-module",
+    "description": "Magento extension return only the url from Kiyoh and not an entire html block",
+    "version": "0.1",
+    "keywords":["magento","mvc", "composer-installer"],
+    "homepage":"https://github.com/hans2103/KiyohsnippetsOverride",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Hans Kuijpers",
+            "email": "info@hkweb.nl",
+            "homepage": "http://hkweb.nl",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}

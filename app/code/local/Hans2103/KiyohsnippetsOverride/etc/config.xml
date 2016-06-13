@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Hans2103_KiyohsnippetsOverride>
+      <version>0.0.1</version>
+    </Hans2103_KiyohsnippetsOverride>
+  </modules>
+  <global>
+    <helpers>
+      <kiyohsnippets>
+        <rewrite>
+          <data>Hans2103_KiyohsnippetsOverride_Helper_Data</data>
+        </rewrite>
+      </kiyohsnippets>
+    </helpers>
+  </global>
+</config>
